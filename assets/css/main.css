@@ -1,0 +1,187 @@
+body {
+  height: 100vh;
+  background-color: #fff;
+  background-repeat: no-repeat;
+  box-sizing: cover;
+  background-position: 80%;
+}
+
+body {
+  margin: 0;
+}
+
+img {
+  max-width: 100%;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Raleway", sans-serif;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 70px;
+  font-weight: 200;
+}
+
+h3 {
+  font-size: 50px;
+  font-weight: 200;
+}
+
+h4 {
+  font-size: 30px;
+  font-weight: 700;
+}
+
+.navbar {
+  background-color: #fafafa !important;
+}
+
+.btn {
+  border-radius: 88px;
+  padding: 5px 60px;
+}
+
+.btn-lg {
+  text-transform: uppercase;
+  font-size: 30px;
+}
+
+.padding-xx-top {
+  padding-top: 12.5rem;
+}
+
+.padding-xx-bottom {
+  padding-bottom: 12.5rem;
+}
+
+.padding-xx-left {
+  padding-left: 12.5rem;
+}
+
+.padding-xx-right {
+  padding-right: 12.5rem;
+}
+
+.padding-x-top {
+  padding-top: 4.375rem;
+}
+
+.padding-x-bottom {
+  padding-bottom: 4.375rem;
+}
+
+.padding-x-left {
+  padding-left: 4.375rem;
+}
+
+.padding-x-right {
+  padding-right: 4.375rem;
+}
+
+.padding-large-top {
+  padding-top: 3.125rem;
+}
+
+.padding-large-bottom {
+  padding-bottom: 3.125rem;
+}
+
+.padding-large-left {
+  padding-left: 3.125rem;
+}
+
+.padding-large-right {
+  padding-right: 3.125rem;
+}
+
+.padding-medium-top {
+  padding-top: 1.25rem;
+}
+
+.padding-medium-bottom {
+  padding-bottom: 1.25rem;
+}
+
+.padding-medium-left {
+  padding-left: 1.25rem;
+}
+
+.padding-medium-right {
+  padding-right: 1.25rem;
+}
+
+.padding-xx {
+  padding: 12.5rem;
+}
+
+.padding-x {
+  padding: 4.375rem;
+}
+
+.padding-large-padding {
+  padding: 3.125rem;
+}
+
+.padding-medium {
+  padding: 1.25rem;
+}
+
+.first-article, .fourth-article, .seventh-article {
+  background-color: #e56353;
+  text-align: center;
+  color: #fff;
+}
+.first-article h1, .fourth-article h1, .seventh-article h1 {
+  text-transform: uppercase;
+}
+.first-article h2, .fourth-article h2, .seventh-article h2 {
+  line-height: 30px;
+}
+
+.second-article {
+  background-color: #a0a0a0;
+}
+.second-article .body {
+  color: #fff;
+}
+
+.fourth-article {
+  background-color: #e56353;
+  color: #fff;
+}
+
+.seventh-article {
+  background-color: #e56353;
+}
+
+.second-article .body .title, .third-article .body .title {
+  text-align: center;
+}
+
+.fifth-article .body, .sixth-article .body {
+  text-align: center;
+}
+.fifth-article .body .title, .sixth-article .body .title {
+  margin-top: 50px;
+}
+.fifth-article .body p, .sixth-article .body p {
+  text-align: justify;
+}
+
+footer {
+  background-color: #a0a0a0;
+  text-align: center;
+}
+
+/*# sourceMappingURL=main.css.map */

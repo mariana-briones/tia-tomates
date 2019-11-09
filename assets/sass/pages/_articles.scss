@@ -1,0 +1,49 @@
+.first-article, .fourth-article, .seventh-article  {
+  background-color: $jellybean;
+  text-align: center;
+  color: $white;
+
+  h1 {
+    text-transform: uppercase;
+  }
+
+  h2 {
+    line-height: 30px;
+  }
+}
+
+.second-article {
+  background-color: $quicksilver;
+  .body {
+    color: $white;
+  }
+}
+
+.fourth-article {
+  background-color: $jellybean;
+  color: $white;
+}
+
+.seventh-article {
+  background-color: $jellybean;
+}
+
+.second-article, .third-article {
+  .body {
+    .title {
+      text-align: center;
+    }
+  }
+}
+
+.fifth-article, .sixth-article {
+  .body {
+    .title {
+      margin-top: 50px;
+    }
+    text-align: center;
+    p {
+      text-align: justify;
+    }
+  }
+}

@@ -1,0 +1,28 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: $raleway-font;
+}
+
+h1 {
+    font-size: $x-large;
+    font-weight: $bold-font;
+}
+
+h2 {
+    font-size: $x-large;
+    font-weight: $extra-ligth-font;
+}
+
+h3 {
+    font-size: $large;
+    font-weight: $extra-ligth-font;
+}
+
+h4 {
+    font-size: $medium;
+    font-weight: $bold-font;
+}
